@@ -4,7 +4,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // The whole entry is a single funny line: a workplace setup that turns on
 // the word "promoted" — the payoff redefines a promotion as riding floors.
 const LINE =
-  "I told my boss I work best under pressure, so he moved my desk into the elevator and now I get promoted every floor.";
+  "My self-checkout said 'unexpected item in the bagging area,' and honestly, same, I didn't plan on being here at 34 either.";
 
 // The sealed scorer only accepts 1-200 characters on exactly one line, so
 // refuse to write anything that would score 0 instead of failing silently.
